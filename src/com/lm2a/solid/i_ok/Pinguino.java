@@ -9,6 +9,6 @@ public class Pinguino implements IAve, IAveNadadora {
 
     @Override
     public void nadar() {
-        System.out.println("Pinguino nadando"
+        System.out.println("Pinguino nadando");
     }
 }
